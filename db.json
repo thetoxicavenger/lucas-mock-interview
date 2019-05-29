@@ -1,0 +1,41 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "rating": "PG-13",
+            "title": "Dangerous Liasons",
+            "poster": "https://c8.alamy.com/comp/BKAHXD/dangerous-liaisons-1988-poster-BKAHXD.jpg",
+            "favorite": false
+        },
+        {
+            "id": 2,
+            "rating": "R",
+            "title": "Memories of Murder",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZWYyYTk5ODQtNjFjZi00ZDFlLWEwNGEtNGQwZTdmYWRhNmU3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+        },
+        {
+            "id": 3,
+            "rating": "R",
+            "title": "The Host",
+            "poster": "https://i.pinimg.com/originals/11/b1/a2/11b1a29118054dcb9a222c854a683a5c.jpg"
+        },
+        {
+            "id": 4,
+            "rating": "PG-13",
+            "title": "The World According to Garp",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MzQ3NTQzOV5BMl5BanBnXkFtZTgwNDE0ODg4MDE@._V1_.jpg"
+        },
+        {
+            "id": 5,
+            "rating": "PG-13",
+            "title": "Good Morning Vietnam",
+            "poster": "https://c8.alamy.com/comp/BKGCH5/good-morning-vietnam-1987-poster-gmv-001pp-BKGCH5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Toy Story",
+            "rating": "G",
+            "poster": "https://vignette.wikia.nocookie.net/transcripts/images/2/2a/Disney_and_Pixar%27s_Toy_Story_-_iTunes_Movie_Poster.jpg/revision/latest?cb=20170206021624"
+        }
+    ]
+}
